@@ -57,7 +57,17 @@ Run the G-code and perform your first engraving.
 ![image alt](https://github.com/rohith177rv-byte/CNC-PROJECT/blob/d9015b3bf843aee82614ad2b685f7e5d6c86b78a/Screenshot%202026-06-20%20113622.png)
 
 ## Videos
-(Add YouTube or Google Drive links here.)
+(https://drive.google.com/file/d/1uage08BdZVBl5LOebL6LKkEOluvl5MU6/view?usp=drivesdk)
 
-## Results
-(Add photos of finished engravings.)
+
+# Built By
+### Shahid H
+**Builder & Technician**
+- Assembled the CNC machine and hardware components.
+- Wired, tested, and calibrated the machine.
+## Rohith RV
+**Programmer & CNC Operator**
+- Configured GRBL, generated G-code, and set up the software.
+- Operated the machine and performed engraving tests.
+
+
