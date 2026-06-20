@@ -53,11 +53,16 @@ Open LaserGRBL and connect the machine.
 ### Step 10
 Run the G-code and perform your first engraving.
 
-## Photos
+## Photo
 ![image alt](https://github.com/rohith177rv-byte/CNC-PROJECT/blob/d9015b3bf843aee82614ad2b685f7e5d6c86b78a/Screenshot%202026-06-20%20113622.png)
 
 ## Videos
 (https://drive.google.com/file/d/1uage08BdZVBl5LOebL6LKkEOluvl5MU6/view?usp=drivesdk)
+
+## Download all Resources
+(https://drive.google.com/drive/folders/1XJl4rGi7hfJdLH7_6ECVRmux3IX_2xF0?usp=drive_link)
+
+
 
 
 # Built By
@@ -71,3 +76,5 @@ Run the G-code and perform your first engraving.
 - Operated the machine and performed engraving tests.
 
 
+### Project Duration:
+**05-06-2026 To 19-06-2026**
