@@ -54,7 +54,7 @@ Open LaserGRBL and connect the machine.
 Run the G-code and perform your first engraving.
 
 ## Photos
-(Add photos here.)
+![image alt](https://github.com/rohith177rv-byte/CNC-PROJECT/blob/d9015b3bf843aee82614ad2b685f7e5d6c86b78a/Screenshot%202026-06-20%20113622.png)
 
 ## Videos
 (Add YouTube or Google Drive links here.)
